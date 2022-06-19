@@ -12,5 +12,6 @@ set(CMAKE_MODULE_PATH ${CMAKE_BINARY_DIR})
 add_subdirectory(Lib)
 add_subdirectory(Lab1)
 add_subdirectory(Lab2)
+add_subdirectory(Lab3)
 
 add_subdirectory(tests)
